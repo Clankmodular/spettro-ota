@@ -1,0 +1,16 @@
+{
+    "device":  "spectrum-esp32",
+    "version":  "0.9.228",
+    "build":  328,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.228.bin",
+    "size":  1360352,
+    "sha256":  "a487bf4d24a538ccaf1f87eb79a7c42ecf237cf06ba97a88f02f744558dcdc16",
+    "notes":  "Spettro 0.9.228: analizzatore piu fluido (FFT 4%, interpolazione)",
+    "daisy":  {
+                  "version":  "0.9.228",
+                  "build":  328,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.228.bin",
+                  "size":  115704,
+                  "sha256":  "a0b176c98d1204ce4175b3d3fc9e81dfd1f482f08be2e2925d64ea79f8ebdf25"
+              }
+}
