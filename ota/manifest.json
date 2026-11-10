@@ -1,16 +1,16 @@
 {
     "device":  "spectrum-esp32",
-    "version":  "0.9.228",
-    "build":  328,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.228.bin",
-    "size":  1360352,
-    "sha256":  "a487bf4d24a538ccaf1f87eb79a7c42ecf237cf06ba97a88f02f744558dcdc16",
-    "notes":  "Spettro 0.9.228: analizzatore piu fluido (FFT 4%, interpolazione)",
+    "version":  "0.9.249",
+    "build":  349,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.249.bin",
+    "size":  1368112,
+    "sha256":  "96db8ca7939e94f65d7b191e341ff4c39c165ab4e6be5dfd9175337704a8832c",
+    "notes":  "Spettro 0.9.249: otto voci, audio a 32 kHz",
     "daisy":  {
-                  "version":  "0.9.228",
-                  "build":  328,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.228.bin",
-                  "size":  115704,
-                  "sha256":  "a0b176c98d1204ce4175b3d3fc9e81dfd1f482f08be2e2925d64ea79f8ebdf25"
+                  "version":  "0.9.249",
+                  "build":  349,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.249.bin",
+                  "size":  122992,
+                  "sha256":  "b0d1a15b9d4f3763eebb842a8930bb87daca63c6d362d84da43bbfec44cba766"
               }
 }
