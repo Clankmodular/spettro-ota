@@ -1,16 +1,16 @@
 {
     "device":  "spectrum-esp32",
-    "version":  "0.9.250",
-    "build":  350,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.250.bin",
-    "size":  1368992,
-    "sha256":  "cca3c6831710b39c67cf9725cd56c9457e8797229203f4bb895399118e7fe878",
-    "notes":  "Spettro 0.9.250: OTA senza sprite, pagine Wi-Fi e font System",
+    "version":  "0.9.258",
+    "build":  358,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.258.bin",
+    "size":  1382016,
+    "sha256":  "9596076be1477263b4830ba2400948c5bef2ed143dab6975d780f21292a99c74",
+    "notes":  "Spettro 0.9.258: niente lampi della pagina sotto premendo i tasti",
     "daisy":  {
-                  "version":  "0.9.249",
-                  "build":  349,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.249.bin",
-                  "size":  122992,
-                  "sha256":  "b0d1a15b9d4f3763eebb842a8930bb87daca63c6d362d84da43bbfec44cba766"
+                  "version":  "0.9.258",
+                  "build":  358,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.258.bin",
+                  "size":  125136,
+                  "sha256":  "e31e1105a0a1585de44a3e3ca1eab54ab825cd266253eeb06e306c46d281ed90"
               }
 }
