@@ -1,16 +1,16 @@
 {
     "device":  "spectrum-esp32",
-    "version":  "0.9.259",
-    "build":  359,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.259.bin",
-    "size":  1383840,
-    "sha256":  "3e68ec31fd3bf58224afb05608d4859a570266562e1e8f894e45c9233b5745c7",
-    "notes":  "Setup and Wi-Fi pages drawn in one transfer; Setup popups in the Setup fonts; Daisy flash result shown at boot",
+    "version":  "0.9.263",
+    "build":  363,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.263.bin",
+    "size":  1383696,
+    "sha256":  "3cb684a5ff6087fccf098dadf61d8129c026286450c63628665918caba93da4b",
+    "notes":  "Arp rotate and random accent, Tri-Comp final stage, quieter LEDs (lower brightness, power cap, softer boot flash), new fw screen",
     "daisy":  {
-                  "version":  "0.9.259",
-                  "build":  359,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.259.bin",
-                  "size":  125136,
-                  "sha256":  "13575faab4b62a3528719626dcbd85e164fd08f5bb0576c478aa0d397fd38ae9"
+                  "version":  "0.9.263",
+                  "build":  363,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.263.bin",
+                  "size":  124128,
+                  "sha256":  "4438baafea044a9a975796fa24bae6e0616c8ae8e3afb5c7680c8184105015a2"
               }
 }
