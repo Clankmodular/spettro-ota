@@ -1,16 +1,16 @@
 {
     "device":  "spectrum-esp32",
-    "version":  "0.9.263",
-    "build":  363,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.263.bin",
-    "size":  1383696,
-    "sha256":  "3cb684a5ff6087fccf098dadf61d8129c026286450c63628665918caba93da4b",
-    "notes":  "Arp rotate and random accent, Tri-Comp final stage, quieter LEDs (lower brightness, power cap, softer boot flash), new fw screen",
+    "version":  "0.9.264",
+    "build":  364,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.264.bin",
+    "size":  1384016,
+    "sha256":  "a2fdd5dc7bd1921f98b6ac4b010ba05d4f015c975a2a165c145651c3c8363342",
+    "notes":  "Tri-Comp piu largo sulle basse, compressore 2:1 per timbro, band levels con encoder, LFO 2 sul tasto timbro",
     "daisy":  {
-                  "version":  "0.9.263",
-                  "build":  363,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.263.bin",
-                  "size":  124128,
-                  "sha256":  "4438baafea044a9a975796fa24bae6e0616c8ae8e3afb5c7680c8184105015a2"
+                  "version":  "0.9.264",
+                  "build":  364,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.264.bin",
+                  "size":  124640,
+                  "sha256":  "18d787fcadde9788cb9f4e0696478a201b2f92df361a96311768c6139d758536"
               }
 }
