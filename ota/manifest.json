@@ -1,16 +1,16 @@
 {
     "device":  "spectrum-esp32",
-    "version":  "0.9.264",
-    "build":  364,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.264.bin",
-    "size":  1384016,
-    "sha256":  "a2fdd5dc7bd1921f98b6ac4b010ba05d4f015c975a2a165c145651c3c8363342",
-    "notes":  "Tri-Comp piu largo sulle basse, compressore 2:1 per timbro, band levels con encoder, LFO 2 sul tasto timbro",
+    "version":  "0.9.274",
+    "build":  374,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.274.bin",
+    "size":  1408096,
+    "sha256":  "662354580c2e8dce84e9ac0d78eb31cdf3f6f0950dc8d15e0ba698fdd210b1d4",
+    "notes":  "Multi-strumento, tasto timbro A/B/C, play/stop per timbro, band pan, piano roll di nuovo raggiungibile",
     "daisy":  {
-                  "version":  "0.9.264",
-                  "build":  364,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.264.bin",
-                  "size":  124640,
-                  "sha256":  "18d787fcadde9788cb9f4e0696478a201b2f92df361a96311768c6139d758536"
+                  "version":  "0.9.274",
+                  "build":  374,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.274.bin",
+                  "size":  125392,
+                  "sha256":  "d7d20dd4a71d990f2fda90106af5bce72d2712e5652d7b7fca59d6fc68d2ddd4"
               }
 }
