@@ -1,16 +1,16 @@
 {
     "device":  "spectrum-esp32",
-    "version":  "0.9.274",
-    "build":  374,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.274.bin",
-    "size":  1408096,
-    "sha256":  "662354580c2e8dce84e9ac0d78eb31cdf3f6f0950dc8d15e0ba698fdd210b1d4",
-    "notes":  "Multi-strumento, tasto timbro A/B/C, play/stop per timbro, band pan, piano roll di nuovo raggiungibile",
+    "version":  "0.9.278",
+    "build":  378,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.278.bin",
+    "size":  1659664,
+    "sha256":  "2763f54064c3e78eac8485b55153fd47385032ad6969464b3f9cfe1d7820f9cb",
+    "notes":  "Veste grafica Blocchi, pagina della durata del loop senza tasti bloccati, timbro C giallo, envelope assign con LED rossi",
     "daisy":  {
-                  "version":  "0.9.274",
-                  "build":  374,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.274.bin",
-                  "size":  125392,
-                  "sha256":  "d7d20dd4a71d990f2fda90106af5bce72d2712e5652d7b7fca59d6fc68d2ddd4"
+                  "version":  "0.9.278",
+                  "build":  378,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.278.bin",
+                  "size":  120652,
+                  "sha256":  "03ddd4c84506297e2aadf989b4e1c90b468ede6bf81d73d6a6f84672517151fc"
               }
 }
