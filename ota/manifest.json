@@ -1,16 +1,16 @@
 {
-    "device":  "spectrum-esp32",
-    "version":  "0.9.278",
-    "build":  378,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.278.bin",
-    "size":  1659664,
-    "sha256":  "2763f54064c3e78eac8485b55153fd47385032ad6969464b3f9cfe1d7820f9cb",
-    "notes":  "Veste grafica Blocchi, pagina della durata del loop senza tasti bloccati, timbro C giallo, envelope assign con LED rossi",
-    "daisy":  {
-                  "version":  "0.9.278",
-                  "build":  378,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.278.bin",
-                  "size":  120652,
-                  "sha256":  "03ddd4c84506297e2aadf989b4e1c90b468ede6bf81d73d6a6f84672517151fc"
-              }
+    "device": "spectrum-esp32",
+    "version": "0.9.293",
+    "build": 393,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.293.bin",
+    "size": 1635760,
+    "sha256": "bbde72e3036802c6d19cae05f95bc8db6321abb3636e47e58db06935dacb4f53",
+    "notes": "Exciter modale (Reso = durezza, Attack e Release normali), pagine timbro e multi strumento, mix, accordi e regole dei pad, preset in coda, prestazioni ESP32",
+    "daisy": {
+        "version": "0.9.293",
+        "build": 393,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.293.bin",
+        "size": 123116,
+        "sha256": "5e4847e01e014670a6f1284d8fcbfff36421c8e4443550236f2ce19ff949c482"
+    }
 }
