@@ -1,16 +1,16 @@
 {
     "device": "spectrum-esp32",
-    "version": "0.9.293",
-    "build": 393,
-    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.293.bin",
-    "size": 1635760,
-    "sha256": "bbde72e3036802c6d19cae05f95bc8db6321abb3636e47e58db06935dacb4f53",
-    "notes": "Exciter modale (Reso = durezza, Attack e Release normali), pagine timbro e multi strumento, mix, accordi e regole dei pad, preset in coda, prestazioni ESP32",
+    "version": "0.9.310",
+    "build": 410,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.310.bin",
+    "size": 1645008,
+    "sha256": "cf8ba6828af0a0acaf6f27a64165fddc226996cc0904eeff18b8eab744039e74",
+    "notes": "MIDI per altezza e canali per strumento, fader Transpose come volume del timbro (con LFO, envelope e loop), key tenuto = tastiera momentanea, timbre + play ferma e riavvia le sequenze a tempo, LED senza flash",
     "daisy": {
-        "version": "0.9.293",
-        "build": 393,
-        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.293.bin",
-        "size": 123116,
-        "sha256": "5e4847e01e014670a6f1284d8fcbfff36421c8e4443550236f2ce19ff949c482"
+        "version": "0.9.310",
+        "build": 410,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.310.bin",
+        "size": 122708,
+        "sha256": "ca5f5174434b1f60c673a47f697772f2b50766da09421b91863c49a294470d76"
     }
 }
