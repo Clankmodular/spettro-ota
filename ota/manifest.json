@@ -1,16 +1,16 @@
 {
     "device": "spectrum-esp32",
-    "version": "0.9.317",
-    "build": 417,
-    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.317.bin",
-    "size": 1642848,
-    "sha256": "095abb2d89cd32ccc7dc037a8474ef73daa3ccb121e00a1b04cb1a2d4c0b2a00",
-    "notes": "Nuovo filtro state variable (LP/BP/HP, 2-8 poli), pagina transpose con i due tasti ottava, transpose delle note dell'arpeggio, passaggio diretto fra le pagine, encoder e mute in performance mode, LED ottave bianchi, tolto lo stutter. Preset v58: i preset precedenti non si caricano",
+    "version": "0.9.318",
+    "build": 418,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.318.bin",
+    "size": 1648960,
+    "sha256": "6cb7bfe4c02c60bd150da399db1d794e634daeeae6c37091a67b37a31e30960e",
+    "notes": "Chaos pad in performance mode (pad liberi 4x3: filtro LP/HP e risonanza prima degli effetti, modalita hold e loop), Start/Stop MIDI muovono il play, rec armed sceglie i timbri A/B/C, pagina performance come i pad, volume e send su piu pad insieme, i loop seguono ottava e transpose. ESP32 e Daisy insieme",
     "daisy": {
-        "version": "0.9.317",
-        "build": 417,
-        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.317.bin",
-        "size": 126184,
-        "sha256": "9a23228cb17a0ebd289f7fd22dc5b9b69061811bb11050f7eb45bb48e1b28f42"
+        "version": "0.9.318",
+        "build": 418,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.318.bin",
+        "size": 127136,
+        "sha256": "195b13df6d63f7132d9ad01160370cb3825b27f694f31ad74a4b1f91ed367ce5"
     }
 }
