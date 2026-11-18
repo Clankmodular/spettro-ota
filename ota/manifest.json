@@ -1,16 +1,16 @@
 {
-    "device":  "spectrum-esp32",
-    "version":  "0.9.315",
-    "build":  415,
-    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.315.bin",
-    "size":  1642848,
-    "sha256":  "6a9d048fb303752c3f9bc24b79416dcf304317c143a2e51e036910e23060059e",
-    "notes":  "Pannello reattivo sotto carico (registrazione in multitimbral, arpeggi e loop), pagina note arpeggio con doppio tap per cancellare, tastiera a quarte, LED dei pad, volume dei timbri piu pronto. Preset v57: i preset precedenti non si caricano",
-    "daisy":  {
-                  "version":  "0.9.315",
-                  "build":  415,
-                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.315.bin",
-                  "size":  123020,
-                  "sha256":  "1c6f59a9e84a4db8c553b7ce00d40bfe9ef49bc01875c2c7c6055cbbe3b401c8"
-              }
+    "device": "spectrum-esp32",
+    "version": "0.9.317",
+    "build": 417,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.317.bin",
+    "size": 1642848,
+    "sha256": "095abb2d89cd32ccc7dc037a8474ef73daa3ccb121e00a1b04cb1a2d4c0b2a00",
+    "notes": "Nuovo filtro state variable (LP/BP/HP, 2-8 poli), pagina transpose con i due tasti ottava, transpose delle note dell'arpeggio, passaggio diretto fra le pagine, encoder e mute in performance mode, LED ottave bianchi, tolto lo stutter. Preset v58: i preset precedenti non si caricano",
+    "daisy": {
+        "version": "0.9.317",
+        "build": 417,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.317.bin",
+        "size": 126184,
+        "sha256": "9a23228cb17a0ebd289f7fd22dc5b9b69061811bb11050f7eb45bb48e1b28f42"
+    }
 }
