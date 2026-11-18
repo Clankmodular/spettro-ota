@@ -1,16 +1,16 @@
 {
-    "device": "spectrum-esp32",
-    "version": "0.9.310",
-    "build": 410,
-    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.310.bin",
-    "size": 1645008,
-    "sha256": "cf8ba6828af0a0acaf6f27a64165fddc226996cc0904eeff18b8eab744039e74",
-    "notes": "MIDI per altezza e canali per strumento, fader Transpose come volume del timbro (con LFO, envelope e loop), key tenuto = tastiera momentanea, timbre + play ferma e riavvia le sequenze a tempo, LED senza flash",
-    "daisy": {
-        "version": "0.9.310",
-        "build": 410,
-        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.310.bin",
-        "size": 122708,
-        "sha256": "ca5f5174434b1f60c673a47f697772f2b50766da09421b91863c49a294470d76"
-    }
+    "device":  "spectrum-esp32",
+    "version":  "0.9.315",
+    "build":  415,
+    "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.315.bin",
+    "size":  1642848,
+    "sha256":  "6a9d048fb303752c3f9bc24b79416dcf304317c143a2e51e036910e23060059e",
+    "notes":  "Pannello reattivo sotto carico (registrazione in multitimbral, arpeggi e loop), pagina note arpeggio con doppio tap per cancellare, tastiera a quarte, LED dei pad, volume dei timbri piu pronto. Preset v57: i preset precedenti non si caricano",
+    "daisy":  {
+                  "version":  "0.9.315",
+                  "build":  415,
+                  "url":  "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.315.bin",
+                  "size":  123020,
+                  "sha256":  "1c6f59a9e84a4db8c553b7ce00d40bfe9ef49bc01875c2c7c6055cbbe3b401c8"
+              }
 }
