@@ -1,16 +1,16 @@
 {
     "device": "spectrum-esp32",
-    "version": "0.9.318",
-    "build": 418,
-    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.318.bin",
-    "size": 1648960,
-    "sha256": "6cb7bfe4c02c60bd150da399db1d794e634daeeae6c37091a67b37a31e30960e",
-    "notes": "Chaos pad in performance mode (pad liberi 4x3: filtro LP/HP e risonanza prima degli effetti, modalita hold e loop), Start/Stop MIDI muovono il play, rec armed sceglie i timbri A/B/C, pagina performance come i pad, volume e send su piu pad insieme, i loop seguono ottava e transpose. ESP32 e Daisy insieme",
+    "version": "0.9.329",
+    "build": 429,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.329.bin",
+    "size": 1627584,
+    "sha256": "9429607b78c658fe68a73b21e6b7b7efa329361c9356e5d5c35c350a29d5dc71",
+    "notes": "Delay e riverbero: pagina effetti (cutoff, drive overdrive, normal/reverse; modulazione, shimmer, tilt LP/HP, predelay) con nuovi disegni, shimmer al posto di detail. Piano roll con slide leggibili e quantize con griglia e quantita, transpose registrabile e su LFO/env. Stop delle tracce in performance mode ferma loop e arpeggio. Timbri del rec armed ricordati, avvisi di stop e volume a zero. Tolti chaos pad e filtro sul master. Preset v62: i preset salvati prima non si leggono piu. ESP32 e Daisy insieme",
     "daisy": {
-        "version": "0.9.318",
-        "build": 418,
-        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.318.bin",
-        "size": 127136,
-        "sha256": "195b13df6d63f7132d9ad01160370cb3825b27f694f31ad74a4b1f91ed367ce5"
+        "version": "0.9.329",
+        "build": 429,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.329.bin",
+        "size": 126948,
+        "sha256": "c6fa9e395c8f22bfc49fdcdd1a40bc2b23d8f699ae1fc49bcdde62cfa8158a45"
     }
 }
