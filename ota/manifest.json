@@ -1,16 +1,16 @@
 {
     "device": "spectrum-esp32",
-    "version": "0.9.335",
-    "build": 435,
-    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.335.bin",
-    "size": 1632112,
-    "sha256": "81c5b80e9187901a20b25af305e63442d469415a02ed690e327d07b9eff51e2f",
-    "notes": "Sequenza di trasposizioni: con rec armato la pagina transpose registra dal primo pad, si applica subito ad arpeggio e loop di note, schermata con sequenza e looper. Tasto sub attivo sulla pagina performance. Play, pausa e restart dalla pagina preset. ESP32 e Daisy insieme",
+    "version": "0.9.341",
+    "build": 441,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.341.bin",
+    "size": 1805248,
+    "sha256": "624ed855d6380b15d543822505e58dccbb22acdfd935728ae97f868d6ea5f6cd",
+    "notes": "Song mode: Preset tenuto apre la pagina song, preset concatenati con ripetizioni per ciclo o battute, 16 song salvate. MIDI Bluetooth in ingresso (System > midi). Pagina effetti con volume e direzioni del delay, shimmer. Encoder e LED del fader sulle pagine timbri. ESP32 e Daisy insieme",
     "daisy": {
-        "version": "0.9.335",
-        "build": 435,
-        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.335.bin",
-        "size": 127148,
-        "sha256": "67f1ee52ccd3c3126df7c55476f1c64c39007b6b88e807ccbe54ffe6f6c470f6"
+        "version": "0.9.341",
+        "build": 441,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.341.bin",
+        "size": 128368,
+        "sha256": "bd00e602ae77c444ebbeaf82f166ed154defb1be599a2a3d579206746c3daf3e"
     }
 }
