@@ -1,16 +1,16 @@
 {
     "device": "spectrum-esp32",
-    "version": "0.9.329",
-    "build": 429,
-    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.329.bin",
-    "size": 1627584,
-    "sha256": "9429607b78c658fe68a73b21e6b7b7efa329361c9356e5d5c35c350a29d5dc71",
-    "notes": "Delay e riverbero: pagina effetti (cutoff, drive overdrive, normal/reverse; modulazione, shimmer, tilt LP/HP, predelay) con nuovi disegni, shimmer al posto di detail. Piano roll con slide leggibili e quantize con griglia e quantita, transpose registrabile e su LFO/env. Stop delle tracce in performance mode ferma loop e arpeggio. Timbri del rec armed ricordati, avvisi di stop e volume a zero. Tolti chaos pad e filtro sul master. Preset v62: i preset salvati prima non si leggono piu. ESP32 e Daisy insieme",
+    "version": "0.9.333",
+    "build": 433,
+    "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-v0.9.333.bin",
+    "size": 1629024,
+    "sha256": "1f2874c2427b84d4914375cf1f9d1c3fec92b9e2a95daf83a4fe7d0bd77a3155",
+    "notes": "Drive del delay udibile (overdrive con passa-basso), disegno del delay con le otto bande sfasate dalla Dispersion e riverbero come stanza 3D. Arpeggio: le note escluse da play x:y non lasciano pause. BPM di default 90. Passando a multi instrument A conserva arpeggio, Hold e loop. Ottava e transpose dei loop solo da loop edit. LED della sub con la modulazione. ESP32 e Daisy insieme",
     "daisy": {
-        "version": "0.9.329",
-        "build": 429,
-        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.329.bin",
-        "size": 126948,
-        "sha256": "c6fa9e395c8f22bfc49fdcdd1a40bc2b23d8f699ae1fc49bcdde62cfa8158a45"
+        "version": "0.9.333",
+        "build": 433,
+        "url": "https://raw.githubusercontent.com/Clankmodular/spettro-ota/main/ota/firmware/spectrum-daisy-v0.9.333.bin",
+        "size": 127148,
+        "sha256": "06a1f6f448b801ae6d3bb689f3d89582ecdf47d9aec6594032c2cbb43bcb8ff5"
     }
 }
